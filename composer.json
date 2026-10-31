@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.8",
+        "components/jquery": "^4.0"
+    }
+}
